@@ -31,7 +31,7 @@ The project utilizes historical stock price data for google, from 2004 to 2022.
 * **Programming Language:** Python 3.x
 * **Core Libraries:** Pandas, NumPy, Scikit-learn
 * **Deep Learning Framework:** TensorFlow / Keras and PyTorch
-* **Statistical Modeling:** `statsmodels
+* **Statistical Modeling:** `statsmodels`
 * **Plotting:** Matplotlib, Seaborn
 * **Libaries:** pmdarima (for ARIMA), pykan (for KAN)
 * **Environment:** Jupyter Notebooks
