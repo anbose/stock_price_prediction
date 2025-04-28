@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code for a personal project exploring and comparing various time series forecasting techniques for stock price prediction. The project investigates classical methods, standard deep learning models. It is currently being explored further to include advanced neural network architectures.
+This repository contains the code for a personal project exploring and comparing various time series forecasting techniques for stock price prediction. The project investigates classical methods, standard deep learning models, including the exploration of advanced neural network architectures.
 
 The primary goal was to gain hands-on experience with diverse forecasting methodologies and evaluate their suitability for complex financial time series data. The original development and experimentation were primarily conducted on the Kaggle platform, and this repository serves as a consolidated codebase.
 
