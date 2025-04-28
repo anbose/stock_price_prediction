@@ -41,6 +41,8 @@ The project utilizes historical stock price data for google, from 2004 to 2022.
 **Clone the repository:**
     ```
     git clone https://github.com/anbose/stock_price_prediction.git
+    ```
+    ```
     cd stock_price_prediction
     ```
 
