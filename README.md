@@ -38,9 +38,30 @@ The project utilizes historical stock price data for google, from 2004 to 2022.
 
 ## Installation
 
-1.  **Clone the repository:**
+**Clone the repository:**
     ```bash
     git clone https://github.com/anbose/stock_price_prediction.git
     cd stock_price_prediction
     ```
 
+## Usage
+
+The project code is organized into Jupyter Notebooks.
+
+* **Notebooks:** Navigate the repository and open the `.ipynb` files using Jupyter Lab, Jupyter Notebook, VS Code, or Google Colab. Run the cells sequentially to reproduce the analysis, training, and evaluation for each model.
+
+**Note:** The file paths for data loading might need adjustment if running outside the original Kaggle environment structure. In that case, it is advisable to download the dataset separately into the working directory.
+
+## Future Work
+
+* Further hyperparameter tuning for all models.
+* Deployment of the best performing model as a simple API.
+* Explore multivariate forecasting incorporating additional features.
+
+## Acknowledgements
+
+* Data sourced from [https://www.kaggle.com/datasets/varpit94/google-stock-data].
+
+## Contact
+
+* https://www.linkedin.com/in/anbose/
