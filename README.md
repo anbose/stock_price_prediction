@@ -14,9 +14,10 @@ The following models were implemented and evaluated:
     * ARIMA (Autoregressive Integrated Moving Average)
 * **Deep Learning Models:**
     * LSTM (Long Short-Term Memory)
-* **Further ongoing explorations**
     * LSTM with Attention Mechanism
-* **Advanced/Exploratory Neural Networks:**
+    * GRU (Gated Recurrent Unit)
+    * GRU with Attention Mechanism
+* **Ongoing : Advanced/Exploratory Neural Networks:**
     * KAN (Kolmogorov-Arnold Networks)
  
 ## Dataset
